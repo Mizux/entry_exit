@@ -1,5 +1,9 @@
-# entry_exit
-OR-Tools samples with refill station having entry and exit
+# Entry-Exit Nodes
+OR-Tools samples with refill station having entry and exit.
+
+![before](before.svg)
+
+![after](after.svg)
 
 Potentiel Output:
 ```sh
